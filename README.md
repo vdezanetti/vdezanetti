@@ -10,6 +10,3 @@ Trabalhei por muito tempo na área de Design Gráfico e diagramação.
 <a href="https://steamcommunity.com/id/dezanetti//">
     <img align="center" alt="Dezanetti" height="30" width="95" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a><br><br>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vdezanetti&layout=compact)
